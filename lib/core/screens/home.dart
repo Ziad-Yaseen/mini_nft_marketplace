@@ -1,9 +1,7 @@
 import 'dart:ui';
 
 import 'package:flutter/material.dart';
-import 'package:mini_nft_marketplace/core/app_assets/app_assets.dart';
 import 'package:mini_nft_marketplace/core/components/item.dart';
-import 'package:mini_nft_marketplace/core/spaces/border_radius.dart';
 
 class Home extends StatelessWidget {
   const Home({super.key});
